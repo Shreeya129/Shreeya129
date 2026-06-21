@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Aspiring+ML+Engineer;Tech+Enthusiast;Always+Learning+🚀&center=true&width=500&height=50">
 </p>
-🎓 I'm a Computer Science student passionate about technology and problem-solving.  <br>💻 I enjoy building projects, learning new tools, and improving my coding skills every day.  <br><br>### 🚀 What I'm Working On<br>- Exploring new technologies and frameworks  <br>- Building projects to strengthen my practical knowledge <br>- Currently working on improving my development skills   <br><br>### 🛠️ Skills<br>- Languages: Java / JavaScript / Python<br>- Web: HTML, CSS, JavaScript  <br>- Tools: Git, GitHub  <br><br>### 📌 Goals<br>- Build impactful projects  <br>- Contribute to open source<br><br>### 📫 Let's Connect<br>- 💼 Open to collaborations and learning opportunities 
+🎓 I'm a Computer Science student passionate about technology and problem-solving.  <br>💻 I enjoy building projects, learning new tools, and improving my coding skills every day. <br><br>### 🚀 Current Upskilling on<br>- Cloud Computing   <br> <br><br>### 🚀 What I'm Working On<br>- Exploring new technologies and frameworks  <br>- Building projects to strengthen my practical knowledge <br>- Currently working on improving my development skills   <br><br>### 🛠️ Skills<br>- Languages: Java / JavaScript / Python<br>- Web: HTML, CSS, JavaScript  <br>- Tools: Git, GitHub  <br><br>### 📌 Goals<br>- Build impactful projects  <br>- Contribute to open source<br><br>### 📫 Let's Connect<br>- 💼 Open to collaborations and learning opportunities 
 
 
 ## 🌐 Socials:
